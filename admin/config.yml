@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: master
+  repo: bmingles/gatsby-decap-spike
+  site_domain: https://master--leafy-pothos-75579d.netlify.app/
 
 media_folder: static/img
 public_folder: /img
